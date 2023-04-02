@@ -1,1 +1,13 @@
+const stringOne = document.getElementById("string-1")
+const stringTwo = document.getElementById("string-2")
+const stringThree = document.getElementById("string-3")
+const stringFour = document.getElementById("string-4")
+const stringFive = document.getElementById("string-5")
+const stringSix = document.getElementById("string-6")
 
+console.log(stringThree.innerText)
+console.log(stringFive.innerText)
+console.log(stringTwo.innerText)
+console.log(stringSix.innerText)
+console.log(stringFour.innerText)
+console.log(stringOne.innerText)
